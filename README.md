@@ -22,6 +22,8 @@
 ![14](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/14.jpg)
 ![15](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/15.jpg)
 
+![QR](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/QR.png)
+
 ---
 
 Autorzy:
