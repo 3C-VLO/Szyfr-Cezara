@@ -20,11 +20,7 @@
 ![12](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/12.jpg)
 ![13](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/13.jpg)
 ![14](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/14.jpg)
-![15](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/15.jpeg)
-![16](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/16.jpg)
-![17](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/17.jpg)
-![18](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/18.jpg)
-![19](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/19.jpg)
+![15](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/15.jpg)
 
 ---
 
