@@ -2,7 +2,7 @@
   Łamanie Szyfru Cezara
 </h1>
 
-<p align="center">W razie problemów lub pytań zachęcamy do napisania o tym w sekcji <a href=https://github.com/2C-VLO/AlgorytmEuklidesa/issues>Issues</a> <img src=https://images-ext-2.discordapp.net/external/18-0P1HrYmprJPwlW2YvK5jv8APhxfujyucugS_zirA/https/cdn.frankerfacez.com/emoticon/218530/4 width=20></img>.</p>
+<p align="center">W razie problemów lub pytań zachęcamy do napisania o tym w sekcji <a href=https://github.com/2C-VLO/AlgorytmEuklidesa/issues>Issues</a> <img src=https://cdn.frankerfacez.com/emoticon/489634/4 width=20></img>.</p>
 
 <p align="center"><a href="https://twitter.com/simplywiktor"><img href="https://twitter.com/simplywiktor" src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/more-awesome-<COLOR>.svg"></img></a></p>
