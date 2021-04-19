@@ -7,7 +7,7 @@
 <p align="center"><a href="https://twitter.com/simplywiktor"><img href="https://twitter.com/simplywiktor" src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/more-awesome-<COLOR>.svg"></img></a></p>
 
----
+<h1 align="center"></h1>
 
 ![1](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/1.jpg)
 ![2](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/2.jpg)
@@ -24,10 +24,9 @@
 ![13](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/13.jpg)
 ![14](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/14.jpg)
 ![15](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/15.jpg)
-
 ![QR](https://github.com/2C-VLO/Szyfr-Cezara/blob/main/Slides/QR.png)
 
----
+<h1 align="center"></h1>
 
 Autorzy:
 <a href=https://github.com/vv1ktor>Wiktor Gała</a>,
